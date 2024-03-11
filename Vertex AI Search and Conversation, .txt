@@ -1,0 +1,7 @@
+Vertex AI Search and Conversation, developers and business users can create applications that serve particular business needs.
+Vertex AI Search It's used to build an AI enabled search capability and embedded vertical solution.
+Vertex AI Search helps deliver more relevant results than traditional keyword based search techniques by using natural language processing and machine learning techniques.
+Cloud Retail Search can be considered a vertical specific pre tuned instance of the Vertex AI Search platform.
+It's industry specific for e-commerce and external catalog services.
+Cloud Retail Search is an industry solution for retailers and e-commerce, providing personalized product search, browsing and recommendations
+
